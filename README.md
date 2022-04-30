@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad-fahim
 - 👀 I’m interested in Database Design, SQL, PL/SQL, SQL optimization and Database performance tunning.
 - 🌱 I’m currently learning data science and Machine Learning.
-- 💞️ I’m looking to collaborate on Oracle database administration.
+- 💞️ I’m looking to collaborate on Oracle database administration and Oracle PL/SQL.
 - 📫 I am available in the email: fahimcse42@gmail.com. I am also available in whatsApp with +49(0)1575 3263354.  
 
 <!---
